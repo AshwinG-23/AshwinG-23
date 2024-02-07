@@ -4,6 +4,7 @@ Hello, I am Ashwin GAikwad currently studing at **IIT Goa** for my Btech. I am f
 I completed my schooling upto class 10th from Colonel Parab's School, Ahmednagar and then started my preperations for the JEE exam.
 ## Cource@IITGoa
 I am currently in first year enrolled in the branch of Mathematics and Computing
+
 **My First semister included the following courses**
 - **Physical Chemistry** instructed by 
 - **Inorganic and Organic Chemistry** instructed by
@@ -15,5 +16,6 @@ I am currently in first year enrolled in the branch of Mathematics and Computing
 - **Introduction to Manufacturing** instructed by
 - **National Sports Organization** instructed by
 - **Quantum Physics and Application** instructed by
+
 **My Second semister includes the following courses**
 
