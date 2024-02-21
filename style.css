@@ -1,1 +1,65 @@
-
+body{
+	margin:5px;
+}
+.div1{
+	border: 2pt solid black;
+	background-color:#FFA07A;
+	display:flex;
+}
+.div1left{
+	border-right:1pt solid black;
+	width:75vw;
+}
+.div2right{
+	width:25vw;
+}
+.div1Name{
+	font-weight:bold;
+	text-align:left;
+	font-size:23pt;
+	font-family: "Times New Roman", Times, serif;
+}
+.div1Pfp{
+	width: 172pt;
+	height:172pt;
+	float:right;
+	margin-right:5pt;
+	display:flex;
+	padding:5pt;
+}
+.div1Aboutme{
+	font-family: sans-serif;
+	color: blue;
+}
+.div2{
+	border: 2pt solid black;
+	border-spacing:10pt;
+	background-color:#ADD8E6;
+}
+.div2Table{
+	width:100%
+}
+.div2Table th{
+	text-decoration:underline;
+	padding:10px;
+}
+.div2Table td{
+	padding:10px;
+}
+.div2Table td:nth-child(2){
+	text-align:center;
+}
+.div2Table td:first-child,.div2Table td:last-child{
+	text-align:left;
+}
+.div3{
+	display:flex;
+	border:2pt solid black;
+}
+.div3left{
+	border-right:1pt solid black;
+	width:50vw;
+}
+.div3right{
+	width:50vw;
+}
